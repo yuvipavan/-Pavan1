@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AutomationTesting.Pavan1.DemoTest" duration-ms="16" started-at="2017-10-09T10:19:34Z" finished-at="2017-10-09T10:19:34Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="16" started-at="2017-10-09T10:19:34Z" finished-at="2017-10-09T10:19:34Z">
+      <class name="AutomationTesting.Pavan1.DemoTest">
+        <test-method status="PASS" signature="justTest1()[pri:0, instance:AutomationTesting.Pavan1.DemoTest@30c7da1e]" name="justTest1" duration-ms="6" started-at="2017-10-09T15:49:34Z" finished-at="2017-10-09T15:49:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- justTest1 -->
+      </class> <!-- AutomationTesting.Pavan1.DemoTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- AutomationTesting.Pavan1.DemoTest -->
+</testng-results>
