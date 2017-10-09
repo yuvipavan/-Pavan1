@@ -10,6 +10,8 @@ public class DemoTest {
 	{
 		System.out.println("Just Testing");
 		
+		System.out.println("Just Testing2");
+		
 	}
 
 }
