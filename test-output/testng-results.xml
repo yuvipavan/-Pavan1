@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="52" started-at="2017-10-09T10:10:38Z" finished-at="2017-10-09T10:10:38Z">
+  <suite name="Default suite" duration-ms="44" started-at="2017-10-09T14:54:16Z" finished-at="2017-10-09T14:54:16Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="52" started-at="2017-10-09T10:10:38Z" finished-at="2017-10-09T10:10:38Z">
+    <test name="Default test" duration-ms="44" started-at="2017-10-09T14:54:16Z" finished-at="2017-10-09T14:54:16Z">
       <class name="AutomationTesting.Pavan1.DemoTest">
-        <test-method status="PASS" signature="justTest1()[pri:0, instance:AutomationTesting.Pavan1.DemoTest@5c7fa833]" name="justTest1" duration-ms="13" started-at="2017-10-09T15:40:38Z" finished-at="2017-10-09T15:40:38Z">
+        <test-method status="PASS" signature="justTest1()[pri:0, instance:AutomationTesting.Pavan1.DemoTest@5c7fa833]" name="justTest1" duration-ms="13" started-at="2017-10-09T20:24:16Z" finished-at="2017-10-09T20:24:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- justTest1 -->
